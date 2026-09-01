@@ -15,4 +15,4 @@ Deleting your data. Deleting a measurement removes it permanently. Deleting the 
 
 Children. The app is suitable for all ages and does not knowingly collect information from anyone.
 
-Contact. alexander.barunin@gmail.com
+Contact. polsaleksa@gmail.com
